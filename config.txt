@@ -1,4 +1,4 @@
-token=NjQwNTU4ODk2MDg3NDMzMjM2.Xb7lgw.Id8QW8DqPdWI6gtMOoLeFGhWe8Y
+token=bot-token-removed
 owner=379370653117317131
 prefix=g
 game=Type Gplay
